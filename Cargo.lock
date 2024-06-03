@@ -6086,8 +6086,7 @@ checksum = "e1fc403891a21bcfb7c37834ba66a547a8f402146eba7265b5a6d88059c9ff2f"
 [[package]]
 name = "tauri"
 version = "2.0.0-beta.22"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5a258ecc5ac7ddade525f512c4962fd01cd0f5265e917b4572579c32c027bb31"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "anyhow",
  "bytes",
@@ -6138,8 +6137,7 @@ dependencies = [
 [[package]]
 name = "tauri-build"
 version = "2.0.0-beta.17"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "82b964bb6d03d97e24e12f896aab463b02a3c2ff76a60f728cc37b5548eb470e"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "anyhow",
  "cargo_toml",
@@ -6162,8 +6160,7 @@ dependencies = [
 [[package]]
 name = "tauri-codegen"
 version = "2.0.0-beta.17"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3529cfa977ed7c097f2a5e8da19ecffbe61982450a6c819e6165b6d0cfd3dd3a"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "base64 0.22.1",
  "brotli 3.5.0",
@@ -6189,8 +6186,7 @@ dependencies = [
 [[package]]
 name = "tauri-macros"
 version = "2.0.0-beta.17"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "36f97dd80334f29314aa5f40b5fad10cb9feffd08e5a5324fd728613841e5d33"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "heck 0.5.0",
  "proc-macro2",
@@ -6203,8 +6199,7 @@ dependencies = [
 [[package]]
 name = "tauri-plugin"
 version = "2.0.0-beta.17"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7c8385fd0a4f661f5652b0d9e2d7256187d553bb174f88564d10ebcfa6a3af53"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "anyhow",
  "glob",
@@ -6674,8 +6669,7 @@ dependencies = [
 [[package]]
 name = "tauri-runtime"
 version = "2.0.0-beta.18"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d7dc96172a43536236ab55b7da7b8461bf75810985e668589e2395cb476937cb"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "dpi",
  "gtk",
@@ -6693,8 +6687,7 @@ dependencies = [
 [[package]]
 name = "tauri-runtime-wry"
 version = "2.0.0-beta.18"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5d4fd913b1f14a9b618c7f3ae35656d3aa759767fcb95b72006357c12b9d0b09"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "cocoa",
  "gtk",
@@ -6717,8 +6710,7 @@ dependencies = [
 [[package]]
 name = "tauri-utils"
 version = "2.0.0-beta.17"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4f24a9c20d676a3f025331cc1c3841256ba88c9f25fb7fae709d2b3089c50d90"
+source = "git+https://github.com/jsimonrichard/tauri?branch=jsimonrichard-dev-specta#e8fb76f3138b1678b0d68f3eeeddbc0ca700b15a"
 dependencies = [
  "aes-gcm 0.10.3",
  "brotli 3.5.0",
